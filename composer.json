@@ -1,0 +1,15 @@
+{
+  "name": "sergey/mvc",
+  "authors": [
+    {
+      "name": "Serhii Plotnikov",
+      "email": "serega@ukr.net"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "cl\\": "classes/"
+    }
+  }
+}

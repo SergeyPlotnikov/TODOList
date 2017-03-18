@@ -1,0 +1,112 @@
+.navbar {
+    border-radius: 0px;
+}
+
+#content {
+    width: 600px;
+    margin: auto;
+}
+
+#form {
+    padding: 10px 10px 10px 37px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-top: 1px solid #f7f7f7;
+    border-radius: 0 0 4px 4px;
+    margin-bottom: 20px;
+}
+
+#content h2 {
+    background: none repeat scroll 0 0 #f7f7f7;
+    border: 1px solid #ccc;
+    border-bottom: 1px solid #e0e0e0;
+    font-size: 17px;
+    padding: 10px 10px 0 38px;
+    border-radius: 4px 4px 0 0;
+}
+
+a.navbar-brand {
+    color: #222;
+    display: block;
+    font-size: 40px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+input[type='text'], input[type='password'] {
+    width: 90%;
+}
+
+div.register_form {
+    display: none;
+}
+
+#td_container {
+    width: 1000px;
+    margin: auto;
+    background: #fff;
+    padding-top: 40px;
+}
+
+#sidebar {
+    float: left;
+    width: 18%;
+    background: #f7f7f7;
+}
+
+#sidebar li a {
+    padding: 3px 5px;
+    padding-left: 15px;
+    margin-bottom: 2px;
+
+}
+
+#mainContent {
+    float: right;
+    width: 82%;
+}
+
+#mainContent #head {
+    background: #f7f7f7;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px;
+    padding: 5px;
+    min-height: 40px;
+    line-height: 40px;
+}
+
+#mainContent #head h2 {
+    float: left;
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#mainContent #head #add_more{
+    float: right;
+    padding-top: 6px;
+}
+
+#mainBody{
+    clear: both;
+    padding: 10px;
+}
+
+.addNew{
+    width: 400px;
+}
+
+i{
+    margin-right: 5px;
+    margin-top: 2px;
+}
+
+#seekbar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#progress{
+    margin-bottom: 10px;
+}
